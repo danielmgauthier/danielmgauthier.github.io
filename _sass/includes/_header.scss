@@ -8,6 +8,7 @@
 
   a {
     color: $header-link-color;
+    font-weight: 500;
   }
 
   .avatar {
@@ -24,6 +25,10 @@
     font-weight: bold;
     font-size: 1em;
     line-height: 1.5;
+  }
+
+  .site-title a {
+    font-weight: bold;
   }
 
   .site-nav {

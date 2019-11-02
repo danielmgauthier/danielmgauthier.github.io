@@ -1,12 +1,12 @@
 // Header text feature
 .call-out {
-  @extend %padding-regular;
+  @extend %padding-small;
   display: inline-block;
   width: 100%;
   background-color:$header-desc-background-color;
   background-size: cover;
-  font-size: 1.2em;
-  text-align: center;
+  font-size: 1em;
+  text-align: left;
   color: $header-desc-text-color;
 }
 .call-out p:last-child {
@@ -15,6 +15,7 @@
 .call-out a {
   color: $header-desc-link-color
 }
+
 // Post listing
 .posts {
   .post-teaser {

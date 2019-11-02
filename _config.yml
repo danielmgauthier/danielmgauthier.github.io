@@ -6,15 +6,17 @@ url: "https://danielmgauthier.github.io/"
 theme_settings:
   # Meta
   title: Daniel Gauthier
-  avatar: assets/img/avatar.png
+  avatar: assets/img/animoji.jpeg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A little personal website about computers and stuff." # used by search engines
 
   # Header and footer text
-  header_text: >
-     <p>Hey, it's me!</p>
-  header_text_feature_image:
+  header_text: > 
+    <p><b>Hey there! 👋</b></p>
+    <p>I'm a human who loves to learn and to teach. At the moment, I make a living building iOS apps.</p>
+    <p>I'm hoping to start writing some stuff here soon. Stay tuned. 📺</p>
+  header_text_feature_image: 
   footer_text: >
    &copy; 2019 Daniel Gauthier
 
@@ -45,7 +47,7 @@ theme_settings:
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
   search: false # Enable the search feature
 
   # Localization strings
@@ -65,7 +67,7 @@ theme_settings:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
 # PAGINATION
 paginate: 5

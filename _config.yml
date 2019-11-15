@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://danielmgauthier.github.io/"
+url: "https://www.danielgauthier.me"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:

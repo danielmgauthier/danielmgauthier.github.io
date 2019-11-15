@@ -12,10 +12,7 @@ theme_settings:
   description: "A little personal website about computers and stuff." # used by search engines
 
   # Header and footer text
-  header_text: > 
-    <p><b>Hey there! 👋</b></p>
-    <p>I'm a human who loves to learn and to teach. At the moment, I make a living building iOS apps.</p>
-    <p>I'm hoping to start writing some stuff here soon. Stay tuned. 📺</p>
+  header_text: 
   header_text_feature_image: 
   footer_text: >
    &copy; 2019 Daniel Gauthier

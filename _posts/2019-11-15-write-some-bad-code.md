@@ -21,9 +21,11 @@ This journey is fraught with countless moments of feeling like an imposter, feel
 
 That’s really the balance I’m trying to find here, for myself and anyone else who needs to hear it. Let’s keep challenging ourselves to learn and improve as developers, but let’s not lose sight of how dang cool it is to be able to get a computer to do crazy things in the first place. Dev culture can be ruthlessly opinionated, and it can all get pretty overwhelming when you’re trying to learn something new and difficult. What I’ve seen this lead to, in myself and others, is:
 
-1. a tendency to over-plan. Spending weeks fretting over which “architectural pattern” to use may not be the best use of time. And despite your best planning efforts, let’s be honest: you’re probably going to need to refactor a bunch of stuff in a few months anyways. 
-2. a tendency to value the code itself over the end goal. Code should be easy to reason about. If you can do that, you’re probably good — even if you weren’t quite able to boil your work down into one big fancy chain of higher order functions.
-3. a tendency to worry destructively about our merit or ability. Everyone feels like a bit of an imposter, and no one is as smart as they pretend to be. You’re doing great!
+2.  a tendency to over-plan. Spending weeks fretting over which “architectural pattern” to use may not be the best use of time. And despite your best planning efforts, let’s be honest: you’re probably going to need to refactor a bunch of stuff in a few months anyways.
+
+2.  a tendency to value the code itself over the end goal. Code should be easy to reason about. If you can do that, you’re probably good — even if you weren’t quite able to boil your work down into one big fancy chain of higher order functions.
+
+3.  a tendency to worry destructively about our merit or ability. Everyone feels like a bit of an imposter, and no one is as smart as they pretend to be. You’re doing great!
 
 At their worst, these tendencies can actively slow us down or prevent us from building cool stuff, and can totally obscure the pure creative joy of seeing an idea come to life on screen. That’s a bummer. And if any of this sounds familiar, it might be a good time to put away the books and the blogs and the podcasts for a little while, and focus on writing code for the simple sake of creating something new.
 

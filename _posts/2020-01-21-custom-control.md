@@ -3,12 +3,12 @@ layout: post
 title: Getting creative with custom UIKit controls
 ---
  
-I mulled over a bunch of different ways to introduce this post — “There’s not enough whimsy on the App Store!”, “Unique animations can take your app from good to great!”, “Doctors hate this one weird trick to make your buttons utterly delightful!”, etc. — but I decided they didn’t really serve much of a purpose, so I’m going to get straight to the point:
+I mulled over a bunch of different ways to introduce this post — “There’s not enough whimsy on the App Store!”, “Unique animations can take your app from good to great!”, “Doctors *hate* this one weird trick to make your buttons utterly delightful!”, etc. — but I decided they didn’t really serve much of a purpose, so I’m going to get straight to the point:
 
 **You, I imagine**: “Is there a way for me to build compelling, animated interactions into my app relatively quickly, using tools I’m already super familiar with?  
 **Me, boldly and with great enthusiasm**: “Yes!”
 
-I’ve been having fun messing around with custom controls recently, and I thought it’d be worthwhile to walk through how, with a bit of creativity, we can build a nicely animated — and dare I say, whimsical — button using nothing but views, layout constraints and some simple transformations. There are certainly more flexible, and perhaps more elegant, ways to go about building animated interactions, but I’ve run into many cases where this simple approach does just what I need with very little effort. And hey, they say constraints breed creativity; by operating primarily at the top-level UIKit layer, we’re certainly working within some tight constraints here. Let’s give it a shot!
+I’ve been having fun messing around with custom controls recently, and I thought it’d be worthwhile to walk through how, with a bit of creativity, we can build a nicely animated — and dare I say, whimsical — button using nothing but views, layout constraints and some simple transformations. There are certainly more flexible, and perhaps more elegant, ways to go about building animated interactions, but I’ve run into many cases where this simple approach does just what I need with very little effort. And hey, they say constraints breed creativity; by operating primarily at the UIKit layer, we’re certainly working within some tight constraints here. Let’s give it a shot!
 
 ## What I want to build
 
@@ -20,7 +20,7 @@ I want a brightly coloured, round button with a shopping cart icon. I want the c
 Kind of like this, but better.
 {:.caption}
 
-Why do I want these things? Because just THINK of how much fun it’ll be. Let's do it for the whimsy.
+Why do I want these things, you ask? Because I think the end result will be rather amusing. Let's do it for the whimsy.
 
 🛒💨💨💨
 
@@ -99,7 +99,7 @@ Now, let’s do some additional configuration and lay them out, piece by piece, 
 
 ```swift
 init() {
-    // …
+    // ...
     setUpView()
 }
 

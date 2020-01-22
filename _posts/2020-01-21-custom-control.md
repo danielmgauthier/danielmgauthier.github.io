@@ -82,14 +82,14 @@ Well, here’s a dumb, easy answer: let’s use two sets of lines, in two differ
 First, let’s initialize all our subviews:
 
 ```swift
-let topPinkLine: UIView = .make(backgroundColor: .systemPink, height: 2.0, cornerRadius: 1.0)
-let middlePinkLine: UIView = .make(backgroundColor: .systemPink, height: 2.0, cornerRadius: 1.0)
-let bottomPinkLine: UIView = .make(backgroundColor: .systemPink, height: 2.0, cornerRadius: 1.0)
 let buttonView: UIView = .make(backgroundColor: .systemPink, height: 52.0, width: 52.0, cornerRadius: 26.0)
 let imageView: UIImageView = .make(image: UIImage(systemName: "cart.fill", withConfiguration: UIImage.SymbolConfiguration(pointSize: 22.0, weight: .bold, scale: .default)), tintColor: .white)
 let topWhiteLine: UIView = .make(backgroundColor: .white, height: 2.0, cornerRadius: 1.0)
 let middleWhiteLine: UIView = .make(backgroundColor: .white, height: 2.0, cornerRadius: 1.0)
 let bottomWhiteLine: UIView = .make(backgroundColor: .white, height: 2.0, cornerRadius: 1.0)
+let topPinkLine: UIView = .make(backgroundColor: .systemPink, height: 2.0, cornerRadius: 1.0)
+let middlePinkLine: UIView = .make(backgroundColor: .systemPink, height: 2.0, cornerRadius: 1.0)
+let bottomPinkLine: UIView = .make(backgroundColor: .systemPink, height: 2.0, cornerRadius: 1.0)
 ```
 
 **Note**: I’m using some simple factory methods here to make things more readable. There’s no magic here; they do exactly what you’d expect based on the parameters I’m passing in.

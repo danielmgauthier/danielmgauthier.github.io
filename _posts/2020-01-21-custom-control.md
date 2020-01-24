@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting creative with custom UIKit controls
+twitter_image: assets/img/uicontrol-sketch.png
 ---
  
 I mulled over a bunch of different ways to introduce this post — “There’s not enough whimsy on the App Store!”, “Unique animations can take your app from good to great!”, “Doctors *hate* this one weird trick to make your buttons utterly delightful!”, etc. — but I decided they didn’t really serve much of a purpose, so I’m going to get straight to the point:

@@ -22,6 +22,25 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
 		integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
+	<!-- Twitter cards -->
+	<meta name="twitter:site"    content="@{{ site.twitter }}">
+	<!-- <meta name="twitter:creator" content="@{{ page.author }}"> -->
+	<meta name="twitter:title"   content="{{ page.title }}">
+
+	{% if page.summary %}
+	<meta name="twitter:description" content="{{ page.summary }}">
+	{% else %}
+	<meta name="twitter:description" content="{{ site.description }}">
+	{% endif %}
+
+	{% if page.image %}
+	<meta name="twitter:card"  content="summary_large_image">
+	<meta name="twitter:image" content="{{ site.url }}{{ page.twitter_image }}">
+	{% else %}
+	<meta name="twitter:card"  content="summary">
+	<meta name="twitter:image" content="{{ site.avatar }}">
+	{% endif %}
+
 	<!-- Google Fonts -->
 	{% if site.theme_settings.google_fonts %}
 	<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet"

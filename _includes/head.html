@@ -30,7 +30,7 @@
 	{% if page.summary %}
 	<meta name="twitter:description" content="{{ page.summary }}">
 	{% else %}
-	<meta name="twitter:description" content="{{ site.description }}">
+	<meta name="twitter:description" content="{{ site.theme_settings.description }}">
 	{% endif %}
 
 	{% if page.image %}
@@ -38,7 +38,7 @@
 	<meta name="twitter:image" content="{{ site.url }}{{ page.twitter_image }}">
 	{% else %}
 	<meta name="twitter:card"  content="summary">
-	<meta name="twitter:image" content="{{ site.avatar }}">
+	<meta name="twitter:image" content="{{ site.theme_settings.avatar }}">
 	{% endif %}
 
 	<!-- Google Fonts -->

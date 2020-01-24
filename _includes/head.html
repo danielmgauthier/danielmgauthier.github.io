@@ -27,13 +27,13 @@
 	<!-- <meta name="twitter:creator" content="@{{ page.author }}"> -->
 	<meta name="twitter:title"   content="{{ page.title }}">
 
-	{% if page.summary %}
-	<meta name="twitter:description" content="{{ page.summary }}">
+	{% if page.subtitle %}
+	<meta name="twitter:description" content="{{ page.subtitle }}">
 	{% else %}
 	<meta name="twitter:description" content="{{ site.theme_settings.description }}">
 	{% endif %}
 
-	{% if page.image %}
+	{% if page.twitter_image %}
 	<meta name="twitter:card"  content="summary_large_image">
 	<meta name="twitter:image" content="{{ site.url }}{{ page.twitter_image }}">
 	{% else %}

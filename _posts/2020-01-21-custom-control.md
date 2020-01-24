@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting creative with custom UIKit controls
+subtitle: Let's get whimsical.
 twitter_image: assets/img/uicontrol-sketch.png
 ---
  

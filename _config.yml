@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://danielgauthier.me"
+url: "https://danielgauthier.me/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:

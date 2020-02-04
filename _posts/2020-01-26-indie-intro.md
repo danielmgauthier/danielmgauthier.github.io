@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to build an indie app: Introduction"
+title: "Going indie: Introduction"
 twitter_subtitle: A step-by-step guide to whatever it is I end up doing.
 twitter_image: assets/img/indie-intro-1.png
 ---

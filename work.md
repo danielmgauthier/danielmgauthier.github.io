@@ -42,6 +42,6 @@ As the first iOS developer at this small startup, I led the design and developme
 
 #### May 2012 - September 2013
 ### Independent iOS Developer
-After graduating, I committed myself fully to improving my mobile development and design skills, and to learning how to create usable, useful products from start to finish. I shipped two apps to the App Store (sadly, no longer maintained or available): SixthNote, a journal app with a focus on connecting memories to music; and Switchboard, a strategic two-player word game.
+After finishing a double major degree in Computer Science and [Popular Music Studies](https://music.uwo.ca/departments/mrc/popular-music-studies.html), I committed myself fully to improving my mobile development and design skills, and to learning how to create usable, useful products from start to finish. I shipped two apps to the App Store (sadly, no longer maintained or available): SixthNote, a journal app with a focus on connecting memories to music; and Switchboard, a strategic two-player word game.
 
 Old promo video for Switchboard: [tweet by Daniel Gauthier](https://twitter.com/danielmgauthier/status/1016463297908838400?s=20)

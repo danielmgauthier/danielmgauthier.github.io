@@ -14,7 +14,7 @@ This summer, I was feeling restless and in need of a bit of a shakeup. I decided
 ### iOS Team Lead, SHOEBOX Inc.
 I led a team of 8 other iOS developers, working across multiple product teams, providing guidance and mentorship. I made decisions around the design, architecture and implementation of new features, led the development of core pieces of functionality in our apps, and built tools and processes to make sure my teammates were happy, motivated, and doing the best work they can do.
 
-website: [shoebox.md](www.shoebox.md)
+website: [shoebox.md](https://www.shoebox.md)
 
 <br/>
 
@@ -22,7 +22,7 @@ website: [shoebox.md](www.shoebox.md)
 ### Senior iOS Developer, SHOEBOX Inc.
 I played an important role in a growing team of iOS developers, planning and building new features in several apps while striving to address some deep technical debt that had begun to accumulate. These apps included Modica, a media capturing and sharing app for doctors; Shoebox, a clinically validated audiometer; and QuickTest, a simple hearing screening tool.
 
-website: [shoebox.md](www.shoebox.md)
+website: [shoebox.md](https://www.shoebox.md)
 
 <br/>
 

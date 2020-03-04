@@ -3,7 +3,6 @@ layout: post
 title: "Mastering view controller transitions, part 2: Make them feel natural"
 twitter_subtitle: "It's the right thing to do."
 twitter_image: assets/img/indie-4.png
-invisible: true
 ---
 
 This week, I’m doing a set of 3 short articles that explore some more advanced, concrete ideas around custom transitions. I give some additional context in the first one, so you may want to take a gander if you haven’t already:

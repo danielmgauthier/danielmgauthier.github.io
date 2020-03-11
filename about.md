@@ -22,4 +22,4 @@ That said, I care far more about the quality and utility of the things programmi
 
 I build apps and think a lot about working in tech, but like anyone, I do a whole bunch of other stuff too. I spend lots of time making fancy coffee ☕️, running around outside 🏃‍♂️, watching F1 races 🏎, playing a bunch of instruments half-well 🎶, watching “Fantastic Mr. Fox” 🦊, playing weird indie games 🎮, trying to figure out what I’m even doing here 🤷‍♂️, and hanging out with excellent people 😎. 
 
-I don’t really tweet, but regrettably, I’m on there quite a bit, so feel free to [get in touch](https://twitter.com/danielmgauthier)!
+Come say hi [on Twitter](https://twitter.com/danielmgauthier)!

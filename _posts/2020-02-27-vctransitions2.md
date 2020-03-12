@@ -3,11 +3,12 @@ layout: post
 title: "Mastering view controller transitions, part 2: Make them feel natural"
 twitter_subtitle: "It's the right thing to do."
 twitter_image: assets/img/indie-4.png
+preview: Making interactions feel "natural" is a bit of a subjective thing, but for me, there were a few details I knew I wanted to get right when it came to dismissing my view controllers interactively.
 ---
 
 This week, I’m doing a set of 3 short articles that explore some more advanced, concrete ideas around custom transitions. I give some additional context in the first one, so you may want to take a gander if you haven’t already:
 
-**[Mastering view controller transitions, part 1: make them reusable](https://danielgauthier.me/2020/02/24/indie5-1.html)**
+**[Mastering view controller transitions, part 1: make them reusable](https://danielgauthier.me/2020/02/24/vctransitions1.html)**
 
 As a quick refresher, here’s an example of the transitions we introduced in the first article, and that all this writing is based on:
 

@@ -3,6 +3,7 @@ layout: post
 title: "Going indie: Introduction"
 twitter_subtitle: A step-by-step guide to whatever it is I end up doing.
 twitter_image: assets/img/indie-intro-1.png
+preview: "The reality, of course, is that I have absolutely no idea how to build a successful indie app. I’ve never done it, and actually, if I'm being honest, it seems pretty hard."
 ---
 
 I’ve got a big idea for a series of articles I’d like to start writing. On its surface, the pitch is simple: 

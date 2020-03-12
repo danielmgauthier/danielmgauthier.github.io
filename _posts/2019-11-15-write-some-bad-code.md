@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Write some bad code! Live a little!
+preview: The general style is…unconventional, to say the least; anything that needs to be used in multiple places is basically just globally accessible; and really, most of the app is contained within two view controllers, which are 2500 and 3500 lines long, and one of which is named “ViewController”. 
 ---
 
 In 2013, when I was just starting to figure out how to build iOS apps for a living, I built a two-player word game called Switchboard. I recently looked over that old code out of curiosity, and what I found was, predictably, hilarious and unrecognizable. The general style is…unconventional, to say the least; anything that needs to be used in multiple places is basically just globally accessible; and really, most of the app is contained within two view controllers, which are 2500 and 3500 lines long, and one of which is named “ViewController”. 

@@ -27,7 +27,7 @@ article {
 }
 header {
   h1 {
-    margin: 0;
+    margin: 0 0 0.2em 0;
   }
 }
 .meta {
@@ -104,6 +104,16 @@ pre {
   width: 80%;
   text-align: center;
   max-width: 400px;
+}
+
+.vertical-image {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.emphasis-text {
+  font-size: 1.5em;
 }
 
 .caption {

@@ -3,12 +3,13 @@ layout: post
 title: "Mastering view controller transitions, part 3: Make them resizable"
 twitter_subtitle: "Put your presentation controller to work 👷‍♂️"
 twitter_image: assets/img/indie-4.png
+preview: If I’m building a simple presentation that slides in from the bottom, I certainly don’t want every view controller that uses it to be locked to one specific size — the size should depend on the content! — and I also don’t want to have to think too hard about setting the size appropriately every time I use my custom transition with a new view controller. 
 ---
 
 This week, I’m doing a set of 3 short articles that explore some more advanced, concrete ideas around custom transitions. I give some additional context in the first one, so you may want to take a gander if you haven’t already:
 
-**[Mastering view controller transitions, part 1: make them reusable](https://danielgauthier.me/2020/02/24/indie5-1.html)**  
-**[Mastering view controller transitions, part 2: make them feel natural](https://danielgauthier.me/2020/02/27/indie5-2.html)**
+**[Mastering view controller transitions, part 1: make them reusable](https://danielgauthier.me/2020/02/24/vctransitions1.html)**  
+**[Mastering view controller transitions, part 2: make them feel natural](https://danielgauthier.me/2020/02/27/vctransitions2.html)**
 
 As a quick refresher, here’s an example of the transitions we introduced in the first article, and that all this writing is based on:
 

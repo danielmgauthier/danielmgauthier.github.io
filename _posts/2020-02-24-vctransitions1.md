@@ -3,14 +3,12 @@ layout: post
 title: "Mastering view controller transitions, part 1: Make them reusable"
 twitter_subtitle: "Some thoughts on structuring your custom transition code 🏗"
 twitter_image: assets/img/indie-4.png
-excerpt_separator: <!--more-->
+preview: "Let’s be real: all technical debt seeps into the user experience eventually! So, let’s figure out how to make sure our custom transitions are easy to use and reuse."
 ---
 
 Last week, I wrote a primer on how custom view controller transitions actually work. If you missed it and are relatively new to this stuff, or want a quick refresher, you might want to check it out [here](https://danielgauthier.me/2020/02/19/indie-4.html).
 
 This week, I’m doing a set of 3 short articles that explore some more advanced, concrete ideas around custom transitions. This was originally intended to be one relatively straightforward article, but apparently I’ve got a lot to say about this stuff (or maybe I’m bad at editing 🤔), and I decided that putting out a monolithic 8000 word piece probably wasn’t the most palatable choice. So, each article will revolve around one goal I had in mind as I built some nice custom transitions into my own app, and will detail the solutions I came up with in trying to achieve that goal.
-
-<!--more-->
 
 To get us all on the same page, let’s take a look at a couple of these transitions in action. You’ll see two different view controllers presented: the “Add game” view controller, and the “Tags” view controller. Both are presented using the same animation and presentation controllers, but they use different interaction controllers on dismissal — “Tags” can be quickly and easily swiped away, while “Add game” is a more deliberate interaction that requires the user to drag a certain distance before releasing, and that includes some decoration views as part of the interaction.
 

@@ -6,7 +6,7 @@ permalink: /work/
 
 #### July 2019 - Present
 ### Independent iOS Developer
-This summer, I was feeling restless and in need of a bit of a shakeup. I decided to leave my job after 3 and a half years, catch my breath, and see if I could make a go of things on my own for a little while. I'm currently doing some freelancing work, and spending a bit more time than usual on learning and on some small personal projects. I'm planning to keep this going for the foreseeable future, but I'm always open to hearing about new contract or employment opportunities.
+Last summer, I was feeling restless and in need of a bit of a shakeup. I decided to leave my job after 3 and a half years, catch my breath, and see if I could make a go of things on my own for a little while. I'm currently doing some freelancing work, and spending a bit more time than usual on learning and on some small personal projects. I'm planning to keep this going for the foreseeable future, but I'm always open to hearing about new contract or employment opportunities.
 
 <br/>
 

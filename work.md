@@ -6,7 +6,7 @@ permalink: /work/
 
 #### July 2019 - Present
 ### Independent iOS Developer
-This summer, I was feeling restless and in need of a bit of a shakeup. I decided to leave my job after 3 and a half years, catch my breath, and see if I could make a go of things on my own for a little while. I'm currently working on a few interesting contracts, and spending a bit more time than usual on learning and on some small personal projects. I'm planning to keep this going for the foreseeable future, but I'm always open to hearing about new contract or employment opportunities.
+This summer, I was feeling restless and in need of a bit of a shakeup. I decided to leave my job after 3 and a half years, catch my breath, and see if I could make a go of things on my own for a little while. I'm currently doing some freelancing work, and spending a bit more time than usual on learning and on some small personal projects. I'm planning to keep this going for the foreseeable future, but I'm always open to hearing about new contract or employment opportunities.
 
 <br/>
 
@@ -30,7 +30,7 @@ website: [shoebox.md](https://www.shoebox.md)
 ### Lead iOS Developer, Volley Industries
 I was brought onto a small team at Volley to lead the development of a native iOS app to complement Volley’s web app. The app allowed users with expertise in various topics to ask for advice, discuss solutions to problems and make meaningful connections with one another. Collaborating closely with a designer and a backend developer, we launched a beautiful, fully-featured app in five months.
 
-Unfortunately not many traces of Volley left on the internet, but here's a tiny peek at the kind of stuff we were working on: [tweet by David Hariri](https://twitter.com/davehariri/status/1184264467430948864?s=20)
+Unfortunately, there aren't many traces of Volley left on the internet, but here's a tiny peek at the kind of stuff we were working on: [tweet by David Hariri](https://twitter.com/davehariri/status/1184264467430948864?s=20)
 
 <br/>
 

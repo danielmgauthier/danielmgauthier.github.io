@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My work
+title: My background
 permalink: /work/
 ---
 

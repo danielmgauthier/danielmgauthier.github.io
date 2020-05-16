@@ -17,3 +17,8 @@ Meanwhile, you’ll always have up-to-date info on your housemates’ statuses, 
 Oh Bother is a simple to use, beautifully designed, free app for iPhone. It allows users to make a small in-app purchase to support the app and get a few fun cosmetic options in return (alternate icons, color palettes, and perhaps more in the future). 
 
 Download it here: [Oh Bother on the App Store](https://apps.apple.com/app/id1511197431)
+
+## Press coverage
+
+**9to5Mac**: [Oh Bother is the perfect companion for keeping the peace while working at home](https://9to5mac.com/2020/05/14/oh-bother-keeping-peace-working-at-home/)  
+**iMore**: [Oh Bother helps you avoid interrupting someone while you work from home](https://www.imore.com/oh-bother-helps-you-avoid-interrupting-someone-while-youre-work-home)

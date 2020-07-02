@@ -9,7 +9,7 @@ theme_settings:
   avatar: assets/img/animoji.jpeg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A little personal website about building apps and stuff." # used by search engines
+  description: "iOS developer and designer writing about indie app development. Doing it from Ottawa, Canada." # used by search engines
 
   # Header and footer text
   header_text: 

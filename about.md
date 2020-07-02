@@ -6,7 +6,7 @@ permalink: /about/
 
 Hey there! 👋
 
-I’m Dan. I’m a human who loves to learn and to teach. At the moment, I make a living building iOS apps. 
+I’m Dan. I’m a human from Ottawa who loves to learn and to teach. At the moment, I make a living building iOS apps. 
 
 I currently fancy myself something of an “independent developer” after having worked as part of [a few great teams](/work/) over the first 7-ish years of my career. As always, I’m striving to learn and grow in two very different ways: one, as a software engineer looking to get better at what I know and learn more about what I don’t; two, as a speck on a space rock trying to figure out how my work and my interests fit into my life and the lives of those around me. 
 

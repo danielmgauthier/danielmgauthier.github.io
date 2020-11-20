@@ -4,9 +4,15 @@ title: My background
 permalink: /work/
 ---
 
-#### July 2019 - Present
+#### September 2020 - Present
+### Senior Mobile Developer, Shopify
+I just started! Still learning lots. More detailed description coming soon 🧑‍💻 
+
+<br/>
+
+#### July 2019 - September 2020
 ### Independent iOS Developer
-Last summer, I was feeling restless and in need of a bit of a shakeup. I decided to leave my job after 3 and a half years, catch my breath, and see if I could make a go of things on my own for a little while. I'm currently doing some freelancing work, and spending a bit more time than usual on learning and on some small personal projects. I'm planning to keep this going for the foreseeable future, but I'm always open to hearing about new contract or employment opportunities.
+In the summer of 2019, I was feeling restless and in need of a bit of a shakeup. I decided to leave my job after 3 and a half years, catch my breath, and see if I could make a go of things on my own for a little while. I took on a few long-running contracts as a freelance iOS developer, and spent more time than usual on learning and on some personal projects. I also built and launched [Oh Bother](https://ohbother.app), an independent app that has been prominently featured in the App Store and on social media by Apple. 
 
 <br/>
 

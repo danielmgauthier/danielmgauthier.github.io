@@ -4,6 +4,8 @@ title: "Mastering view controller transitions, part 1: Make them reusable"
 twitter_subtitle: "Some thoughts on structuring your custom transition code 🏗"
 twitter_image: assets/img/indie-4.png
 preview: "Let’s be real: all technical debt seeps into the user experience eventually! So, let’s figure out how to make sure our custom transitions are easy to use and reuse."
+redirect_from:
+    - /2020/02/24/indie5-1.html 
 ---
 
 Last week, I wrote a primer on how custom view controller transitions actually work. If you missed it and are relatively new to this stuff, or want a quick refresher, you might want to check it out [here](https://danielgauthier.me/2020/02/19/indie-4.html).

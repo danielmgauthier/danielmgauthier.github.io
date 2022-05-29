@@ -4,9 +4,9 @@ title: My background
 permalink: /work/
 ---
 
-#### September 2020 - Present
-### Senior Mobile Developer, Shopify
-I just started! Still learning lots. More detailed description coming soon 🧑‍💻 
+#### September 2020 - May 2022
+### Engineering Manager, Shopify
+I managed a small team of native iOS and Android developers, building features related to orders and fulfillment in the core Shopify Mobile app. I focused a lot of my time on technical leadership and mentorship, helping younger devs on my team level up and ship consistently high-quality code.
 
 <br/>
 
